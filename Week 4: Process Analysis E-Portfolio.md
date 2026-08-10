@@ -26,3 +26,11 @@ MaintBoard (2025) explains the Fishbone Diagram's enduring relevance since the 1
 I selected this because it shows that process analysis creates tangible communication outputs, not just insights. Week 3 identified documentation as process analysis's final step this clarifies what that means. Analysts must translate technical findings into visual formats enabling organisational understanding. The Fishbone becomes an organisational knowledge asset. This demonstrates my understanding that process analysis encompasses communication alongside analysis. Universal adoption across hospitals, factories, schools, and IT teams confirms this communication value (MaintBoard, 2025, p.2).
 
 ----------------------------------
+
+## Artefact 4: AI-Powered Root Cause Analysis
+
+QPR (2025) examines technological transformation in process analysis. AI-powered RCA automatically identifies patterns from vast datasets, reducing analysis time from weeks to minutes. Machine learning identifies non-obvious cause-and-effect relationships. This technology enables prediction—identifying problems before they impact operations. Unlike manual methods, AI provides rapid pattern recognition at scale (QPR, 2025, p.1).
+
+I chose this because it contextualises RCA within evolving BPM practice. While traditional tools remain valuable, modern data-rich organisations require enhanced capabilities. This connects to Week 2 lectures on technology as BPM enabler. Importantly, this does not make traditional methods obsolete. Analysts must interpret AI findings and guide organisational response. The shift from investigation toward interpretation represents more valuable work. Understanding human-AI collaboration demonstrates recognition that BPM continues evolving, requiring adaptability and technological awareness (QPR, 2025, p. 2).
+
+------------------------------------
