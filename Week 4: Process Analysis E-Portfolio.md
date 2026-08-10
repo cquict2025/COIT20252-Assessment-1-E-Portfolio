@@ -47,3 +47,11 @@ The Business Analyst Job Description (2025). Root Cause Analysis: Process, Techn
 
 ---
 
+### Artefact 2: Two Different Tools for Different Problems
+
+**Source Title**
+
+Root Cause Analysis The 5 Whys and Fishbone Diagram for Health & Safety Incident Management
+
+
+
