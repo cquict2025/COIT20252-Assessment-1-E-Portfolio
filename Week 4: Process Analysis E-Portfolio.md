@@ -79,4 +79,17 @@ The 5 Whys:
 
 The article explains that choosing the right tool matters. The 5 Whys is like following a thread. Pull it and see where it leads. The Fishbone is like looking at a complicated knot from all angles at once. They are different ways of thinking about problems, and organisations need to know which one to use (SGS, 2026, p. 1).
 
+**Why I Chose This**
+
+I chose this because Week 3 lectures mentioned Root Cause Analysis but did not really explain how to actually do it. This source fills that gap by showing real tools and explaining when you would use each one.
+
+What clicked for me is that this is not just about having two tools. It is about thinking differently. The 5 Whys makes you think step-by-step and logical. The Fishbone makes you think about all the moving parts. If you pick the wrong one, you will either spend forever asking "why?" about something that has multiple causes, or you will miss the real issue by not digging deep enough with the Fishbone.
+
+This shows I am learning to think like a process analyst. It is not just knowing techniques. It is being able to look at a problem and decide: "This one needs deep investigation" or "This one needs us to map out everything that could be involved." That is proper analytical thinking. The different industries using these tools (health, manufacturing, IT) shows they work everywhere, which means I need to understand them properly (SGS, 2026, p. 2).
+
+**Reference**
+
+SGS (2026). Root Cause Analysis The 5 Whys and Fishbone Diagram for Health & Safety Incident Management. Available at: https://www.sgs.com/en-qa/news/2026/05/root-cause-analysis-the-5-whys-and-fishbone-diagram-for-health-and-safety-incident-management (Accessed: 10 August 2026).
+
+
 
