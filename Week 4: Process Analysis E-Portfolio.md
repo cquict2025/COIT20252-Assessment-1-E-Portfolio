@@ -34,3 +34,20 @@ QPR (2025) examines technological transformation in process analysis. AI-powered
 I chose this because it contextualises RCA within evolving BPM practice. While traditional tools remain valuable, modern data-rich organisations require enhanced capabilities. This connects to Week 2 lectures on technology as BPM enabler. Importantly, this does not make traditional methods obsolete. Analysts must interpret AI findings and guide organisational response. The shift from investigation toward interpretation represents more valuable work. Understanding human-AI collaboration demonstrates recognition that BPM continues evolving, requiring adaptability and technological awareness (QPR, 2025, p. 2).
 
 ------------------------------------
+
+### References
+
+- ABPMP International (2019). BPM CBOK Version 4.0: Guide to the Business Process Management Common Body of Knowledge. Arlington, VA: ABPMP International.
+
+- Dumas, M., La Rosa, M., Mendling, J. and Reijers, H.A. (2018). Fundamentals of Business Process Management. 2nd edn. Berlin: Springer-Verlag.
+
+- MaintBoard (2025). Fishbone Analysis: Complete Root Cause Problem-Solving Guide. Available at: https://maintboard.com/fishbone-analysis-root-cause-guide       (Accessed: 10 August 2026).
+
+- QPR (2025). Introducing a Breakthrough in Process Mining: AI-Powered Root Cause Analysis That Finds Answers in Minutes. Available at:                          https://www.qpr.com/blog/ai-powered-root-cause-analysis-that-finds-answers-in-minutes (Accessed: 10 August 2026).
+
+- SGS (2026). Root Cause Analysis The 5 Whys and Fishbone Diagram for Health & Safety Incident Management. Available at: https://www.sgs.com/en-                 qa/news/2026/05/root-cause-analysis-the-5-whys-and-fishbone-diagram-for-health-and-safety-incident-management (Accessed: 10 August 2026).
+
+- The Business Analyst Job Description (2025). Root Cause Analysis: Process, Techniques, and Best Practices. Available at:                                       https://thebusinessanalystjobdescription.com/root-cause-analysis-steps-techniques-and-best-practices/ (Accessed: 10 August 2026).
+
+- van der Aalst, W.M.P. (2016). Process Mining: Data Science in Action. 2nd edn. Berlin: Springer-Verlag.
+
