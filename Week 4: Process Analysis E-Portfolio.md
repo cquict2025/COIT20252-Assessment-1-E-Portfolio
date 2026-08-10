@@ -53,5 +53,30 @@ The Business Analyst Job Description (2025). Root Cause Analysis: Process, Techn
 
 Root Cause Analysis The 5 Whys and Fishbone Diagram for Health & Safety Incident Management
 
+**What This Source Says**
+
+This SGS article (2026) compares two RCA tools that actually work very differently, even though people often group them together.
+
+The 5 Whys:
+
+- Started with a Toyota engineer named Sakichi Toyoda
+
+•	Simple idea: keep asking "why?" until you find the real cause
+
+•	Works best when problems are straightforward and connected in a line
+
+•	Quick and does not need special diagrams
+
+**The Fishbone Diagram:**
+
+•	Uses six categories: Man, Machine, Method, Material, Measurement, and Environment
+
+•	Better when lots of different things might be causing the problem
+
+•	Creates a visual map so teams can see all the possibilities
+
+•	Takes more time but catches more potential causes
+
+The article explains that choosing the right tool matters. The 5 Whys is like following a thread. Pull it and see where it leads. The Fishbone is like looking at a complicated knot from all angles at once. They are different ways of thinking about problems, and organisations need to know which one to use (SGS, 2026, p. 1).
 
 
