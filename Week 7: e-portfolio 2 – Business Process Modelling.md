@@ -10,7 +10,8 @@ Hense (2025) builds a BPMN 2.0 model of a tool rental process live in Camunda Mo
 
 **Why I chose it:**
 
-I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that supports design, analysis and execution (ABPMP International 2019, p. 98). The lecture showed the symbols. This video shows how a modeller decides what to leave out. Hense never models the supplier's own steps he collapses that pool and shows only the messages that cross it (Hense 2025, 39:50). Before this I would have drawn the supplier's process too. Now I understand the Week 5 point that a process is modelled only to the level its purpose needs, and that other organisations' processes sit at a higher level (ABPMP International 2019, p. 113).
+I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that supports design, analysis and execution (ABPMP International 2019, p. 98).The lecture showed the symbols. This video shows how a modeller decides what to leave out. Hense never models the supplier's own steps he collapses that pool and shows only the messages that cross it (Hense 2025, 39:50). Before this I would have drawn the supplier's process too. Now I understand the Week 5 point that a process is modelled only to the level its purpose needs, and that other organisations' processes sit at a higher level (ABPMP International 2019, p. 113).
+
 
 ![Hense's finished tool-rental model showing four lanes, the collapsed Supplier pool and event-based gateways](images/hense-tool-rental.png)
 
@@ -24,7 +25,7 @@ I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that
 
 **Summary:**
 
-Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and analysing processes is now a basic skill, not a specialist one. Digital and AI transformation programs fail when they automate processes nobody has understood (Sinur, Misiak & Biernatowski 2025). The chapter positions BPMN as the link between strategy and execution (Sinur, Misiak & Biernatowski 2025)
+ Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and analysing processes is now a basic skill, not a specialist one. Digital and AI transformation programs fail when they automate processes nobody has understood (Sinur, Misiak & Biernatowski 2025, p. 18). The chapter positions BPMN as the link between strategy and execution (Sinur, Misiak & Biernatowski 2025, p. 21).
 
 **Why I chose it:**
 
