@@ -2,7 +2,7 @@
 
 # Artefact 1: BPMN Business Process Modeling for Beginners – Tool Rental (video)
 
-** Watch on YouTube: ** https://youtu.be/HEdoyk4GKho.
+**Watch on YouTube:** https://youtu.be/HEdoyk4GKho.
 
 **Summary:**
 
