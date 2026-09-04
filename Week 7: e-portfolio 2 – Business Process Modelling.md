@@ -2,7 +2,7 @@
 
 # Artefact 1: BPMN Business Process Modeling for Beginners – Tool Rental (video)
 
-Watch on YouTube: https://youtu.be/HEdoyk4GKho ·  [Companion BPMN files on GitHub](https://github.com/ahense/bpmn)
+** Watch on YouTube: ** https://youtu.be/HEdoyk4GKho.
 
 **Summary:**
 
