@@ -44,7 +44,7 @@ Subotic (2025) reviews forty-two peer-reviewed studies from 2022 to 2025, select
 
 **Why I chose it:**
 
-I included this after Week 5 noted that Visio, PowerPoint and Excel are still the most used modelling tools, and that analysis should focus on the process, not the tool (ABPMP International 2019, p. 124). This paper shows a new tool capability arriving: the tool drafts the model (ABPMP International 2019, p. 94). If that happens, the modeller's value moves to validation, which Week 5 defined as checking the model consistently produces the intended outcome. I now see tool selection and model validation as one decision, not two. The paper's limitation is that it is a single-author conference review, so it is a snapshot rather than a settled view.
+I included this after Week 5 noted that Visio, PowerPoint and Excel are still the most used modelling tools, and that analysis should focus on the process, not the tool (ABPMP International 2019, p. 124). This paper shows a new tool capability arriving the tool drafts the model (ABPMP International 2019, p. 94). If that happens, the modeller's value moves to validation, which Week 5 defined as checking the model consistently produces the intended outcome. I now see tool selection and model validation as one decision, not two. The paper's limitation is that it is a single-author conference review, so it is a snapshot rather than a settled view.
 
 
 ---
