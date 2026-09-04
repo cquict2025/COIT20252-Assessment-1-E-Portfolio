@@ -25,11 +25,12 @@ I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that
 
 **Summary:**
 
- Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and analysing processes is now a basic skill, not a specialist one. Digital and AI transformation programs fail when they automate processes nobody has understood (Sinur, Misiak & Biernatowski 2025, p. 18). The chapter positions BPMN as the link between strategy and execution (Sinur, Misiak & Biernatowski 2025, p. 21).
+Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and analysing processes is now a basic skill, not a specialist one. Digital and AI transformation programs fail when they automate processes nobody has understood (Sinur, Misiak & Biernatowski 2025, p. 18). The chapter positions BPMN as the link between strategy and execution (Sinur, Misiak & Biernatowski 2025, p. 21).
 
 **Why I chose it:**
 
 This chapter matters because it explains the "why" behind the Week 4 purpose of modelling, which is to represent a process accurately and sufficiently for the task at hand (ABPMP International 2019, p. 94). The authors warn that organisations lead with technology instead of process. This matches the Week 7 lecture point that technology-first change fails because it does not start from the customer or the process (ABPMP International 2019, p. 203). Reading both together showed me that modelling is a strategic activity, not just documentation. The book is practitioner opinion rather than research, but it gives a current view that CBOK does not.
+
 
 ---
 
