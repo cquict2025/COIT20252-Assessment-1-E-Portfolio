@@ -31,3 +31,16 @@ Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and anal
 This chapter matters because it explains the "why" behind the Week 4 purpose of modelling, which is to represent a process accurately and sufficiently for the task at hand (ABPMP International 2019, p. 94). The authors warn that organisations lead with technology instead of process. This matches the Week 7 lecture point that technology-first change fails because it does not start from the customer or the process (ABPMP International 2019, p. 203). Reading both together showed me that modelling is a strategic activity, not just documentation. The book is practitioner opinion rather than research, but it gives a current view that CBOK does not.
 
 ---
+
+## Artefact 3: Artificial intelligence in business process modelling – a structured overview (conference paper)
+
+[IEEE Xplore record](https://ieeexplore.ieee.org/document/11205411) · DOI: 10.1109/ICT58284.2025.11205411
+
+**Summary:** 
+
+Subotic (2025) reviews forty-two peer-reviewed studies from 2022 to 2025, selected with the PRISMA method across four databases, to map how AI is changing the way process models are built (Subotic 2025). The main trend is natural language processing and large language models that generate BPMN models from text descriptions. The paper identifies gaps, especially the lack of standard ways to judge the quality of a generated model (Subotic 2025).
+
+**Why I chose it:**
+I included this after Week 5 noted that Visio, PowerPoint and Excel are still the most used modelling tools, and that analysis should focus on the process, not the tool (ABPMP International 2019, p. 124). This paper shows a new tool capability arriving: the tool drafts the model (ABPMP International 2019, p. 94). If that happens, the modeller's value moves to validation, which Week 5 defined as checking the model consistently produces the intended outcome. I now see tool selection and model validation as one decision, not two. The paper's limitation is that it is a single-author conference review, so it is a snapshot rather than a settled view.
+
+---
