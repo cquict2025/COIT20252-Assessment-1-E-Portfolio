@@ -59,12 +59,12 @@ This case is here because it is the clearest example I found of the Week 4 summa
 
 ## References
 
-ABPMP International 2019, *BPM CBOK version 4.0: guide to the business process management common body of knowledge*, ABPMP International, Arlington, VA.
 
-Bradford, M, Bucy, RA & Lee, LS 2025, 'Business process diagramming and process analysis: the Anderson Inc. logistics case', *Issues in Accounting Education*, vol. 40, no. 3, pp. 141-156. DOI: 10.2308/ISSUES-2023-098
+Bradford, M, Bucy, RA & Lee, LS 2025, 'Business process diagramming and process analysis: the Anderson Inc. logistics case', Issues in Accounting Education, vol. 40, no. 3, pp. 141-156, doi:10.2308/ISSUES-2023-098.
 
-Hense, A 2025, *BPMN business process modeling for beginners – tool rental*, video, BPMN Series no. 49, viewed 4 September 2026, https://youtu.be/HEdoyk4GKho
+Hense, A 2025, BPMN business process modeling for beginners – tool rental, video recording, BPMN Series, no. 49, Zenodo, doi:10.5281/zenodo.18364293.
 
-Sinur, J, Misiak, Z & Biernatowski, BJ 2025, *Practical business process modeling and analysis: design and optimize business processes incrementally for AI transformation using BPMN*, Packt Publishing, Birmingham.
+Sinur, J, Misiak, Z & Biernatowski, BJ 2025, Practical business process modeling and analysis: design and optimize business processes incrementally for AI transformation using BPMN, Packt Publishing, Birmingham.
 
-Subotic, S 2025, 'Artificial intelligence in business process modelling: a structured overview of trends, challenges and future research direction', *[Conference name from IEEE Xplore page]*, pp.  DOI: 10.1109/ICT58284.2025.11205411
+Subotic, S 2025, 'Artificial intelligence in business process modelling: a structured overview of trends, challenges and future research direction', 2025 IEEE 23rd Jubilee International Symposium on Intelligent Systems and Informatics (SISY), pp. 000295-000300, doi:10.1109/sisy67000.2025.11205411
+
