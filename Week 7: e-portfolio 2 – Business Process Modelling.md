@@ -18,17 +18,16 @@ I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that
 
 ---
 
+## Artefact 2: *Practical Business Process Modeling and Analysis* – Chapter 1 (book)
 
+ [Chapter 1 free preview on Packt](https://www.packtpub.com/en-au/product/practical-business-process-modeling-and-analysis-9781805126744)
 
-# Artefact 1: BPMN Business Process Modeling for Beginners – Tool Rental (video)
+**Summary:**
 
-## Summary: 
+Sinur, Misiak and Biernatowski (2025) argue in Chapter 1 that modelling and analysing processes is now a basic skill, not a specialist one. Digital and AI transformation programs fail when they automate processes nobody has understood (Sinur, Misiak & Biernatowski 2025). The chapter positions BPMN as the link between strategy and execution (Sinur, Misiak & Biernatowski 2025)
 
-Hense (2025) builds a BPMN 2.0 model of a tool rental process live in Camunda Modeler. He adds elements one at a time and explains why each exclusive gateway, sub-process and event is needed (Hense 2025).
+**Why I chose it:**
 
-## Why I chose it:
+This chapter matters because it explains the "why" behind the Week 4 purpose of modelling, which is to represent a process accurately and sufficiently for the task at hand (ABPMP International 2019, p. 94). The authors warn that organisations lead with technology instead of process. This matches the Week 7 lecture point that technology-first change fails because it does not start from the customer or the process (ABPMP International 2019, p. 203). Reading both together showed me that modelling is a strategic activity, not just documentation. The book is practitioner opinion rather than research, but it gives a current view that CBOK does not.
 
-I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that supports design, analysis and execution (ABPMP International 2019, p. 98). The lecture showed the symbols, but this video shows how a modeller decides which symbol to use. Hense collapses the return and inspection steps into a sub-process instead of listing every task (Hense 2025, [mm:ss]). This shows I understand the Week 5 difference between the workflow level and the task level, and that a model should only be decomposed as far as its purpose needs (ABPMP International 2019, p. 113).
-
-
-
+---
