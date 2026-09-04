@@ -10,7 +10,7 @@ Hense (2025) builds a BPMN 2.0 model of a tool rental process live in Camunda Mo
 
 **Why I chose it:**
 
-I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that supports design, analysis and execution (ABPMP International 2019, p. 98). The lecture showed the symbols. This video shows how a modeller decides what to leave out. Hense never models the supplier's own steps; he collapses that pool and shows only the messages that cross it (Hense 2025, 39:50). Before this I would have drawn the supplier's process too. Now I understand the Week 5 point that a process is modelled only to the level its purpose needs, and that other organisations' processes sit at a higher level (ABPMP International 2019, p. 113).
+I selected this because Week 4 lectures introduced BPMN 2.0 as the notation that supports design, analysis and execution (ABPMP International 2019, p. 98). The lecture showed the symbols. This video shows how a modeller decides what to leave out. Hense never models the supplier's own steps he collapses that pool and shows only the messages that cross it (Hense 2025, 39:50). Before this I would have drawn the supplier's process too. Now I understand the Week 5 point that a process is modelled only to the level its purpose needs, and that other organisations' processes sit at a higher level (ABPMP International 2019, p. 113).
 
 ![Hense's finished tool-rental model showing four lanes, the collapsed Supplier pool and event-based gateways](images/hense-tool-rental.png)
 
@@ -67,4 +67,4 @@ Hense, A 2025, *BPMN business process modeling for beginners – tool rental*, v
 
 Sinur, J, Misiak, Z & Biernatowski, BJ 2025, *Practical business process modeling and analysis: design and optimize business processes incrementally for AI transformation using BPMN*, Packt Publishing, Birmingham.
 
-Subotic, S 2025, 'Artificial intelligence in business process modelling: a structured overview of trends, challenges and future research direction', *[Conference name from IEEE Xplore page]*, pp. DOI: 10.1109/ICT58284.2025.11205411
+Subotic, S 2025, 'Artificial intelligence in business process modelling: a structured overview of trends, challenges and future research direction', *[Conference name from IEEE Xplore page]*, pp.  DOI: 10.1109/ICT58284.2025.11205411
