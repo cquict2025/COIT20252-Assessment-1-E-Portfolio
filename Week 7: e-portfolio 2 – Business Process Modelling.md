@@ -40,10 +40,12 @@ This chapter matters because it explains the "why" behind the Week 4 purpose of 
 
 **Summary:** 
 
-Subotic (2025) reviews forty-two peer-reviewed studies from 2022 to 2025, selected with the PRISMA method across four databases, to map how AI is changing the way process models are built (Subotic 2025). The main trend is natural language processing and large language models that generate BPMN models from text descriptions. The paper identifies gaps, especially the lack of standard ways to judge the quality of a generated model (Subotic 2025).
+Subotic (2025) reviews forty-two peer-reviewed studies from 2022 to 2025, selected with the PRISMA method across four databases, to map how AI is changing the way process models are built (Subotic 2025, p. 296). The main trend is natural language processing and large language models that generate BPMN models from text descriptions. The paper identifies gaps, especially the lack of standard ways to judge the quality of a generated model (Subotic 2025, p. 298).
 
 **Why I chose it:**
+
 I included this after Week 5 noted that Visio, PowerPoint and Excel are still the most used modelling tools, and that analysis should focus on the process, not the tool (ABPMP International 2019, p. 124). This paper shows a new tool capability arriving: the tool drafts the model (ABPMP International 2019, p. 94). If that happens, the modeller's value moves to validation, which Week 5 defined as checking the model consistently produces the intended outcome. I now see tool selection and model validation as one decision, not two. The paper's limitation is that it is a single-author conference review, so it is a snapshot rather than a settled view.
+
 
 ---
 ## Artefact 4: Business Process Diagramming and Process Analysis – The Anderson Inc. Logistics Case (journal article)
@@ -51,11 +53,29 @@ I included this after Week 5 noted that Visio, PowerPoint and Excel are still th
 [Issues in Accounting Education, 40(3)](https://doi.org/10.2308/ISSUES-2023-098)
 
 **Summary:**
-Bradford, Bucy and Lee (2025) present a teaching case where students document the as-is procure-to-pay and logistics processes of a fictitious company in BPMN. Students then use the diagram to find control weaknesses and inefficiencies, including tolerance limits in the three-way match, and propose a streamlined to-be process (Bradford, Bucy & Lee 2025, p. 141). The teaching notes include a reference BPMN solution (Bradford, Bucy & Lee 2025).
+
+Bradford, Bucy and Lee (2025) present a teaching case where students document the as-is procure-to-pay and logistics processes of a fictitious company in BPMN. Students then use the diagram to find control weaknesses and inefficiencies, including tolerance limits in the three-way match, and propose a streamlined to-be process (Bradford, Bucy & Lee 2025, p. 141). The teaching notes include a reference BPMN solution (Bradford, Bucy & Lee 2025, p. 145).
+
+
 
 **Why I chose it:**
 
 This case is here because it is the clearest example I found of the Week 4 summary point that process models express the as-is state and lead to a to-be model (ABPMP International 2019, p. 99). The control issues students must find are the business rules that Week 6 said should be designed into a process from the start. Working through the case changed how I read a BPMN diagram. I now read it looking for the gateway where a control should sit and does not. It is written for accounting students, so I had to translate its audit language into BPM terms.
+
+## What this portfolio shows
+
+Across these four artefacts my understanding of process modelling moved in stages. Artefact 1 showed me BPMN as a set of decisions rather than a set of symbols. Artefact 2 showed that modelling is a strategic activity that has to come before automation. Artefact 3 showed the tools changing under AI while the need for human validation stays. Artefact 4 showed a model being used to find control problems, not just to describe a flow. The common lesson is that the notation and level of detail must match the purpose of the model (ABPMP International 2019, p. 94). That is the idea I will carry into Portfolio 3 on automation, where choosing what to model and how deeply decides what can be automated safely.
+
+---
+
+## Weekly engagement log
+
+| Week | Contribution |
+|------|--------------|
+| 4 | Repository structure created Artefact 1 identified after lecture on BPMN 2.0 |
+| 5 | Artefact 1 video watched with notes Artefact 2 chapter read and summarised |
+| 6 | Artefacts 3 and 4 located via library search; reflections drafted |
+| 7 | Citations checked against CQU Abridged Harvard guide final proofread and submission |
 
 ---
 
