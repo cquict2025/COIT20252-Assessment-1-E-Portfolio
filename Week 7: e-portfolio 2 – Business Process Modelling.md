@@ -44,3 +44,16 @@ Subotic (2025) reviews forty-two peer-reviewed studies from 2022 to 2025, select
 I included this after Week 5 noted that Visio, PowerPoint and Excel are still the most used modelling tools, and that analysis should focus on the process, not the tool (ABPMP International 2019, p. 124). This paper shows a new tool capability arriving: the tool drafts the model (ABPMP International 2019, p. 94). If that happens, the modeller's value moves to validation, which Week 5 defined as checking the model consistently produces the intended outcome. I now see tool selection and model validation as one decision, not two. The paper's limitation is that it is a single-author conference review, so it is a snapshot rather than a settled view.
 
 ---
+## Artefact 4: Business Process Diagramming and Process Analysis – The Anderson Inc. Logistics Case (journal article)
+
+[Issues in Accounting Education, 40(3)](https://doi.org/10.2308/ISSUES-2023-098)
+
+**Summary:**
+Bradford, Bucy and Lee (2025) present a teaching case where students document the as-is procure-to-pay and logistics processes of a fictitious company in BPMN. Students then use the diagram to find control weaknesses and inefficiencies, including tolerance limits in the three-way match, and propose a streamlined to-be process (Bradford, Bucy & Lee 2025, p. 141). The teaching notes include a reference BPMN solution (Bradford, Bucy & Lee 2025).
+
+**Why I chose it:**
+
+This case is here because it is the clearest example I found of the Week 4 summary point that process models express the as-is state and lead to a to-be model (ABPMP International 2019, p. 99). The control issues students must find are the business rules that Week 6 said should be designed into a process from the start. Working through the case changed how I read a BPMN diagram. I now read it looking for the gateway where a control should sit and does not. It is written for accounting students, so I had to translate its audit language into BPM terms.
+
+---
+
