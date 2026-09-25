@@ -43,7 +43,7 @@ Miao et al. (2026) propose the Cybercrime Prevention for Business Processes (CP4
 
 I included this because it moves security out of IT and into process design. In the patch case, the process itself created a predictable delay that attackers could use (Miao et al. 2026, p. ?). Before this I thought cybersecurity meant firewalls and passwords. Now I read a process model looking for the delay or missing check an offender could use. This is the same habit I built in Portfolio 2 with the Anderson Inc. case, where I looked for the gateway where a control should sit and does not (Bradford, Bucy & Lee 2025, p. 141). For an invoice bot, a fake email changing a supplier's bank details would be paid without question. It is peer-reviewed, which makes it my strongest source.
 
-![Figure 3: The CP4BP model from Miao et al.](images/fig.png)
+![Figure 3: The CP4BP model from Miao et al.](images/fig3.png)
 
 *Figure 3: The CP4BP model. Source: Miao et al. (2026, p. ?)*
 
