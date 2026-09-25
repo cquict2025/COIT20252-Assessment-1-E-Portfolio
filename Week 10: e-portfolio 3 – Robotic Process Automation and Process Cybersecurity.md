@@ -13,7 +13,7 @@ I selected this because I needed to know what RPA is before I could judge its ri
 
 ![Figure 1: The RPA and AI comparison in the lesson, with my highlights](images/fig1.png)
 
-*Figure 1: The lesson's comparison of RPA and AI, which I highlighted while reading. Source: Siderska (2025)*
+*Figure 1: The lesson's comparison of RPA and AI. Source: Siderska (2025)*
 
 ---
 
