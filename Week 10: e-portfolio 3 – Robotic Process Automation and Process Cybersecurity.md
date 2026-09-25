@@ -2,6 +2,7 @@
 
 ## Artefact 1: Robotic Process Automation (university lesson)
 Zenodo record · DOI: [10.5281/zenodo.15222569](https://doi.org/10.5281/zenodo.15222569)
+
 **Summary:**
 
 Siderska (2025) is a university lesson that teaches students to build basic software robots in UiPath Studio. It defines RPA as software robots that copy human actions in digital systems (Siderska 2025). It lists the tasks with the highest potential for robots, such as moving data between systems and reading PDFs and emails (Siderska 2025).
