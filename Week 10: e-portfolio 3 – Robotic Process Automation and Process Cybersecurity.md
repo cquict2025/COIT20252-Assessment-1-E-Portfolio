@@ -2,20 +2,20 @@
 
 ## Artefact 1: Robotic Process Automation (university lesson)
 Zenodo record · DOI: [10.5281/zenodo.15222569](https://doi.org/10.5281/zenodo.15222569)
-
 **Summary:**
 
-Siderska (2025) is a university lesson that teaches students to build basic software robots in UiPath Studio. It defines RPA as software robots that copy human actions in digital systems (Siderska 2025, p. ?). It lists the tasks with the highest potential for robots, such as moving data between systems and reading PDFs and emails (Siderska 2025, p. ?).
+Siderska (2025) is a university lesson that teaches students to build basic software robots in UiPath Studio. It defines RPA as software robots that copy human actions in digital systems (Siderska 2025). It lists the tasks with the highest potential for robots, such as moving data between systems and reading PDFs and emails (Siderska 2025).
 
 **Why I chose it:**
 
-I selected this because I needed to know what RPA is before I could judge its risks. The lesson made one difference clear. RPA follows fixed rules, while AI learns from data (Siderska 2025, p. ?). Before this I used the two words as if they meant the same thing. Now I understand that a bot copies a process exactly, flaws included. This is where Portfolio 2 ended: a process nobody understands should not be automated (Sinur, Misiak & Biernatowski 2025, p. 18). It is teaching material rather than research, so I used it for definitions only.
+I selected this because I needed to know what RPA is before I could judge its risks. The lesson made one difference clear. RPA follows fixed rules, while AI learns from data (Siderska 2025). Before this I used the two words as if they meant the same thing. Now I understand that a bot copies a process exactly, flaws included. This is where Portfolio 2 ended: a process nobody understands should not be automated (Sinur, Misiak & Biernatowski 2025, p. 18). It is teaching material rather than research, so I used it for definitions only.
 
 ![Figure 1: The RPA and AI comparison in the lesson, with my highlights](images/fig1.png)
 
-*Figure 1: The lesson's comparison of RPA and AI, which I highlighted while reading. Source: Siderska (2025, p. ?)*
+*Figure 1: The lesson's comparison of RPA and AI, which I highlighted while reading. Source: Siderska (2025)*
 
 ---
+
 
 ## Artefact 2: The Impact of RPA on Identity and Access Management (online article)
 The Hacker News: [read the article](https://thehackernews.com/2025/12/the-impact-of-robotic-process.html)
@@ -37,15 +37,15 @@ Journal of Cybersecurity, 12(1) · DOI: [10.1093/cybsec/tyag018](https://doi.org
 
 **Summary:**
 
-Miao et al. (2026) propose the Cybercrime Prevention for Business Processes (CP4BP) model. It uses ideas from criminology to redesign processes so offenders have fewer opportunities (Miao et al. 2026, p. ?). The authors test it on two real cases, third-party patch management and payroll fraud (Miao et al. 2026, p. ?).
+Miao et al. (2026) propose the Cybercrime Prevention for Business Processes (CP4BP) model. It uses ideas from criminology to redesign processes so offenders have fewer opportunities (Miao et al. 2026). The authors test it on two real cases, third-party patch management and payroll fraud (Miao et al. 2026).
 
 **Why I chose it:**
 
-I included this because it moves security out of IT and into process design. In the patch case, the process itself created a predictable delay that attackers could use (Miao et al. 2026, p. ?). Before this I thought cybersecurity meant firewalls and passwords. Now I read a process model looking for the delay or missing check an offender could use. This is the same habit I built in Portfolio 2 with the Anderson Inc. case, where I looked for the gateway where a control should sit and does not (Bradford, Bucy & Lee 2025, p. 141). For an invoice bot, a fake email changing a supplier's bank details would be paid without question. It is peer-reviewed, which makes it my strongest source.
+I included this because it moves security out of IT and into process design. In the patch case, the process itself created a predictable delay that attackers could use (Miao et al. 2026). Before this I thought cybersecurity meant firewalls and passwords. Now I read a process model looking for the delay or missing check an offender could use. This is the same habit I built in Portfolio 2 with the Anderson Inc. case, where I looked for the gateway where a control should sit and does not (Bradford, Bucy & Lee 2025, p. 141). For an invoice bot, a fake email changing a supplier's bank details would be paid without question. It is peer-reviewed, which makes it my strongest source.
 
 ![Figure 3: The CP4BP model from Miao et al.](images/fig3.png)
 
-*Figure 3: The CP4BP model. Source: Miao et al. (2026, p. ?)*
+*Figure 3: The CP4BP model. Source: Miao et al. (2026)*
 
 ---
 ## Artefact 4: 4 Visionary RPA Security Practices (industry blog)
@@ -53,7 +53,7 @@ Infosys BPM blog: [Fortifying digital horizons](https://www.infosysbpm.com/blogs
 
 **Summary:**
 
-Infosys BPM (2026, 'Adopt the Secure-by-Design approach') sets out four practices for securing RPA bots. Secure-by-design builds security into every stage of a bot's life. Least privilege limits a bot to the access its task needs (Infosys BPM 2026, 'Apply the Principle of Least Privilege'). Zero trust gives each bot a unique identity (Infosys BPM 2026, 'Implement zero-trust architecture'), and credential vaults store and rotate bot passwords with audit trails (Infosys BPM 2026, 'Fortify credential management').
+Infosys BPM (2026, 'Adopt the Secure-by-Design approach') sets out four practices for securing RPA bots. Secure-by-design builds security into every stage of a bot's life. Least privilege limits a bot to the access its task needs (Infosys BPM 2026, 'Apply the Principle of Least Privilege').Zero trust gives each bot a unique identity (Infosys BPM 2026, 'Implement zero-trust architecture'), and credential vaults store and rotate bot passwords with audit trails (Infosys BPM 2026, 'Fortify credential management').
 
 **Why I chose it:**
 
@@ -85,13 +85,11 @@ Across these four artefacts my view of RPA moved from a productivity tool to a n
 
 Bradford, M, Bucy, RA & Lee, LS 2025, 'Business process diagramming and process analysis: the Anderson Inc. logistics case', *Issues in Accounting Education*, vol. 40, no. 3, pp. 141-156, doi:10.2308/ISSUES-2023-098.
 
+The Hacker News 2025, *The impact of robotic process automation (RPA) on identity and access management*, The Hacker News, 11 December, viewed 25 September 2026, <https://thehackernews.com/2025/12/the-impact-of-robotic-process.html>.
+
 Infosys BPM 2026, *Fortifying digital horizons: 4 visionary RPA security practices for tomorrow's automation landscape*, Infosys BPM, viewed 25 September 2026, <https://www.infosysbpm.com/blogs/robotic-process-automation/fortifying-digital-horizons-4-visionary-rpa-security-practices-for-tomorrows-automation-landscape.html>.
 
 Miao, C, Ho, H, Tsen, E, Gilmour, J & Ko, RKL 2026, 'Situational crime prevention for securing business processes: challenges and opportunities', *Journal of Cybersecurity*, vol. 12, no. 1, tyag018, doi:10.1093/cybsec/tyag018.
-
-OWASP Foundation 2025a, *OWASP non-human identities top 10 – 2025*, OWASP Foundation, viewed 25 September 2026, <https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/>.
-
-OWASP Foundation 2025b, *Introduction – OWASP non-human identities top 10*, OWASP Foundation, viewed 25 September 2026, <https://owasp.org/www-project-non-human-identities-top-10/2025/introduction/>.
 
 Siderska, J 2025, *Robotic process automation*, lesson, Bialystok University of Technology, Zenodo, doi:10.5281/zenodo.15222569.
 
