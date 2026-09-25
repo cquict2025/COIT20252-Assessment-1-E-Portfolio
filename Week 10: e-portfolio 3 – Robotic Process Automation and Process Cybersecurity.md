@@ -48,4 +48,51 @@ I included this because it moves security out of IT and into process design. In 
 *Figure 3: The CP4BP model. Source: Miao et al. (2026, p. ?)*
 
 ---
+## Artefact 4: 4 Visionary RPA Security Practices (industry blog)
+Infosys BPM blog: [Fortifying digital horizons](https://www.infosysbpm.com/blogs/robotic-process-automation/fortifying-digital-horizons-4-visionary-rpa-security-practices-for-tomorrows-automation-landscape.html)
 
+**Summary:**
+
+Infosys BPM (2026, 'Adopt the Secure-by-Design approach') sets out four practices for securing RPA bots. Secure-by-design builds security into every stage of a bot's life. Least privilege limits a bot to the access its task needs (Infosys BPM 2026, 'Apply the Principle of Least Privilege'). Zero trust gives each bot a unique identity (Infosys BPM 2026, 'Implement zero-trust architecture'), and credential vaults store and rotate bot passwords with audit trails (Infosys BPM 2026, 'Fortify credential management').
+
+**Why I chose it:**
+
+I chose this because it answers the risks in Artefact 2. Vaulting fixes hardcoded passwords, and least privilege fixes bots with too much access. For an invoice bot, least privilege means it can create draft payments but never approve them. That keeps the approval step in human hands, which is also where Artefact 3 says a fraud check should sit. Like Artefact 2, it comes from a company selling services, and its 69% ROI figure cites an IBM report it does not link. However, the two sources reach the same advice separately, which makes least privilege and vaulting more convincing (Infosys BPM 2026, 'Adopt the Secure-by-Design approach').
+
+![Figure 4: The Apply the Principle of Least Privilege section of the Infosys article](images/fig4.png)
+
+*Figure 4: The article's least privilege section, the practice I applied to the invoice bot. Source: Infosys BPM (2026, 'Apply the Principle of Least Privilege')*
+
+---
+
+## What this portfolio shows
+
+Across these four artefacts my view of RPA moved from a productivity tool to a new kind of user that has to be governed. Artefact 1 showed that a bot copies a process exactly, flaws included. Artefact 2 showed that a bot is an identity with its own risks. Artefact 3 showed that some risks sit in the process design, not the technology. Artefact 4 showed the controls that close the gaps. At the end of Portfolio 2 I said that choosing what to model decides what can be automated safely. This portfolio showed me the other half: what is automated also has to be secured. The three portfolios now connect. Root cause analysis finds why a process fails, a model shows where the weakness sits, and security asks who could exploit it.
+
+---
+
+## Weekly engagement log
+
+| Week | Contribution |
+|------|--------------|
+| 8 | Portfolio 3 file planned; Artefact 1 lesson read after the RPA lecture |
+| 9 | COSO and Infosys sources reviewed; COSO dropped because it was published in 2024; OWASP Top 10 added |
+| 10 | Miao et al. article read; reflections rewritten; citations checked against the CQU Abridged Harvard guide; final proofread and submission |
+
+---
+
+## References
+
+Bradford, M, Bucy, RA & Lee, LS 2025, 'Business process diagramming and process analysis: the Anderson Inc. logistics case', *Issues in Accounting Education*, vol. 40, no. 3, pp. 141-156, doi:10.2308/ISSUES-2023-098.
+
+Infosys BPM 2026, *Fortifying digital horizons: 4 visionary RPA security practices for tomorrow's automation landscape*, Infosys BPM, viewed 25 September 2026, <https://www.infosysbpm.com/blogs/robotic-process-automation/fortifying-digital-horizons-4-visionary-rpa-security-practices-for-tomorrows-automation-landscape.html>.
+
+Miao, C, Ho, H, Tsen, E, Gilmour, J & Ko, RKL 2026, 'Situational crime prevention for securing business processes: challenges and opportunities', *Journal of Cybersecurity*, vol. 12, no. 1, tyag018, doi:10.1093/cybsec/tyag018.
+
+OWASP Foundation 2025a, *OWASP non-human identities top 10 – 2025*, OWASP Foundation, viewed 25 September 2026, <https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/>.
+
+OWASP Foundation 2025b, *Introduction – OWASP non-human identities top 10*, OWASP Foundation, viewed 25 September 2026, <https://owasp.org/www-project-non-human-identities-top-10/2025/introduction/>.
+
+Siderska, J 2025, *Robotic process automation*, lesson, Bialystok University of Technology, Zenodo, doi:10.5281/zenodo.15222569.
+
+Sinur, J, Misiak, Z & Biernatowski, BJ 2025, *Practical business process modeling and analysis: design and optimize business processes incrementally for AI transformation using BPMN*, Packt Publishing, Birmingham.
