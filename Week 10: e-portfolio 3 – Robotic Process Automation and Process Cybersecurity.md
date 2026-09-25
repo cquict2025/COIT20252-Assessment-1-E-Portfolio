@@ -81,7 +81,7 @@ Across these four artefacts my view of RPA moved from a productivity tool to a n
 |------|--------------|
 | 8 | Portfolio 3 file planned; Artefact 1 lesson read after the RPA lecture |
 | 9 | COSO and Infosys sources reviewed; COSO dropped because it was published in 2024; Hacker News article on RPA and identity management added |
-| 10 | Miao et al. article read; reflections rewritten; citations checked against the CQU Abridged Harvard guide; final proofread and submission |
+| 10 | Miao et al. article read, reflections rewritten citations checked against the CQU Abridged Harvard guide; final proofread and submission |
 
 ---
 
