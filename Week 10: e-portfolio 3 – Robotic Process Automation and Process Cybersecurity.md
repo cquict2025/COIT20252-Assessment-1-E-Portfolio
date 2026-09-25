@@ -17,3 +17,17 @@ I selected this because I needed to know what RPA is before I could judge its ri
 
 ---
 
+## Artefact 2: The Impact of RPA on Identity and Access Management (online article)
+The Hacker News: [read the article](https://thehackernews.com/2025/12/the-impact-of-robotic-process.html)
+
+**Summary:**
+
+The Hacker News (2025, 'What is Robotic Process Automation (RPA)?') explains that RPA bots act as non-human identities and need the same governance as human users. It names three challenges: managing bots, a bigger attack surface, and gaps between bots and older identity systems (The Hacker News 2025, 'Challenges RPA introduces into IAM'). A common problem is bots with passwords hardcoded in their scripts (The Hacker News 2025, 'Managing bots').
+
+**Why I chose it:**
+
+This article is here because it changed how I see a bot. Before this I thought of a bot as a tool. Now I see it as a user that needs managing from creation to removal. An invoice bot with its finance-system password saved inside its script is exactly the problem described. If it also had too much access, an attacker could use it to move through the network (The Hacker News 2025, 'Increased attack surface'). I read it carefully, because it is a contributed piece from a company promoting its own password software. I used it for the risks, not the product advice.
+
+![Figure 2: The Managing bots section with the hardcoded passwords sentence highlighted](images/fig2.png)
+
+*Figure 2: The article's section on managing bots, with the sentence on hardcoded passwords highlighted. Source: The Hacker News (2025, 'Managing bots')*
