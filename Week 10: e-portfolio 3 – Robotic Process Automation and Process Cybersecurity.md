@@ -31,3 +31,21 @@ This article is here because it changed how I see a bot. Before this I thought o
 ![Figure 2: The Managing bots section with the hardcoded passwords sentence highlighted](images/fig2.png)
 
 *Figure 2: The article's section on managing bots, with the sentence on hardcoded passwords highlighted. Source: The Hacker News (2025, 'Managing bots')*
+
+## Artefact 3: Situational crime prevention for securing business processes (journal article)
+Journal of Cybersecurity, 12(1) · DOI: [10.1093/cybsec/tyag018](https://doi.org/10.1093/cybsec/tyag018)
+
+**Summary:**
+
+Miao et al. (2026) propose the Cybercrime Prevention for Business Processes (CP4BP) model. It uses ideas from criminology to redesign processes so offenders have fewer opportunities (Miao et al. 2026, p. ?). The authors test it on two real cases, third-party patch management and payroll fraud (Miao et al. 2026, p. ?).
+
+**Why I chose it:**
+
+I included this because it moves security out of IT and into process design. In the patch case, the process itself created a predictable delay that attackers could use (Miao et al. 2026, p. ?). Before this I thought cybersecurity meant firewalls and passwords. Now I read a process model looking for the delay or missing check an offender could use. This is the same habit I built in Portfolio 2 with the Anderson Inc. case, where I looked for the gateway where a control should sit and does not (Bradford, Bucy & Lee 2025, p. 141). For an invoice bot, a fake email changing a supplier's bank details would be paid without question. It is peer-reviewed, which makes it my strongest source.
+
+![Figure 3: The CP4BP model from Miao et al.](images/fig.png)
+
+*Figure 3: The CP4BP model. Source: Miao et al. (2026, p. ?)*
+
+---
+
